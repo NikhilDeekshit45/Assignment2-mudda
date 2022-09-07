@@ -13,3 +13,9 @@ Dubai international airport
 5. Keep right to stay on Sheikh Rashid Rd/D75
 6. Continue straight to stay on Sheikh Rashid Rd/D75
 7. Turn left onto Jumeirah St/Jumeirah Beach Rd/D94
+# nearby places to visit
+1. Burj khalifa
+2. The green planet
+3. La mer
+4. Zabeel park
+5. The Dubai Frame
