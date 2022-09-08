@@ -38,4 +38,17 @@ Dubai international airport
 
 > Float like a butterfly, sting like a bee.  -- *Muhammad Ali*
 
+---
+# Code Fencing
 
+How to display a User Gravatar from an Email Address?
+
+[Question](https://stackoverflow.com/questions/9757325/how-to-get-user-image-from-their-email-address)
+
+```
+<?php
+  $gravatar_link = 'http://www.gravatar.com/avatar/' . md5($comment_author_email) . '?s=32';
+   echo '<img src="' . $gravatar_link . '" />';
+?>
+```
+[Code snippet](https://css-tricks./snippets/php/display-a-user-gravatar-from-email-address/)
