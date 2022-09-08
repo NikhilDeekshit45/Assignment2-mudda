@@ -21,3 +21,21 @@ Dubai international airport
 * The Dubai Frame
 
 [Aboutmefile](Aboutme.md)
+
+- - -
+# Tables
+| Name of the city | locations to visit | amount of time |
+| ---              | ---                | ---            |
+| Vizag            | beach              | 3hrs           |
+| Hyderabad        | charminar          | 2hrs           |
+| Delhi            | qutub minar        | 2hrs           |
+| Dubai            | burj khalifa       | 3hrs           |
+
+---
+# Quotes
+
+> Don't count the days, make the days count. -- *Muhammad Ali*
+
+> Float like a butterfly, sting like a bee.  -- *Muhammad Ali*
+
+
